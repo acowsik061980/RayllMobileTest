@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "649104341020",
+    "firebase_url": "https://rayllmobiletest-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rayllmobiletest",
+    "storage_bucket": "rayllmobiletest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649104341020:android:b85ecaa0f13b503fe987d9",
+        "android_client_info": {
+          "package_name": "com.rayllstudios.rayllmobiletest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP3OGTtZJouk4CATrZ5xTObmtWnDqp1NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
